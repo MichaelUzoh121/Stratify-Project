@@ -1,9 +1,9 @@
 import React from 'react'
 import image from '../image/yearicon.png'
 import image1 from '../image/project.jpg'
-import image2 from '../image/image5.jpg'
-import image3 from '../image/image2.jpg'
-import image4 from '../image/image3.jpg'
+import image2 from '../image/image5.webp'
+import image3 from '../image/image2.webp'
+import image4 from '../image/image3.webp'
 import { Link } from 'react-router-dom'
 
 function Row2() {

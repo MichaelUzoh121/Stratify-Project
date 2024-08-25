@@ -140,7 +140,7 @@
 // export default BackgroundSlider;
 
 import React, { useState, useEffect } from 'react';
-import image1 from '../image/image1.jpg';
+import image1 from '../image/image1.webp';
 import image2 from '../image/image4.jpg';
 import image3 from '../image/image6.jpg';
 
