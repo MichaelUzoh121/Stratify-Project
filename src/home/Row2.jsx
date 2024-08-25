@@ -1,9 +1,9 @@
 import React from 'react'
 import image from '../image/yearicon.png'
 import image1 from '../image/project.jpg'
-import image2 from '../image/image5.webp'
-import image3 from '../image/image2.webp'
-import image4 from '../image/image3.webp'
+import image2 from '../image/new2.jpg'
+import image3 from '../image/new3.jpg'
+import image4 from '../image/new4.jpg'
 import { Link } from 'react-router-dom'
 
 function Row2() {
@@ -98,7 +98,7 @@ function Row2() {
                   </div>
                   <div className=' grid h-full w-full'>
                       <div className=' h-[14vh] w-[18vw] bg-white absolute shadow-xl top-[210vh] left-[74.5vw] grid items-center justify-center '>
-                      <p className='text-xl font-semibold'>Investment Trading</p>
+                      <p className='text-xl font-semibold'>Investment Planning</p>
                       </div>
                   </div>
                 </div>

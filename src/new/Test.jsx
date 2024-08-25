@@ -1,5 +1,5 @@
 import React from 'react';
-import image1 from '../image/image1.jpg';
+import image1 from '../image/image1.webp';
 import { FaPlay } from "react-icons/fa";
 
 const HeroSection = () => {
