@@ -1,7 +1,7 @@
 /** @type {import('tailwindcss').Config} */
 export default {
-  purge: ['./src/**/*.{js,jsx,ts,tsx}', './public/index.html'], // Paths to all of your template files
-  darkMode: false, // or 'media' or 'class'
+  // purge: ['./src/**/*.{js,jsx,ts,tsx}', './public/index.html'], // Paths to all of your template files
+  // darkMode: false, // or 'media' or 'class'
   content: [
     "./index.html",
     "./src/**/*.{js,ts,jsx,tsx}",

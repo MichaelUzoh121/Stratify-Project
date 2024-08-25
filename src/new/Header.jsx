@@ -9,11 +9,11 @@ import Menu from '../component/menu';
 
 function Header() {
   return (
-    <div className=' h-[26vh] w-full grid grid-rows-[25%_75%]  '>
+    <div className=' md:h-[26vh] lg:h-[26vh] w-full grid grid-rows-[25%_75%]  '>
 
         <div className='bg-[rgb(50_50_50)] grid justify-center'>
 
-            <div className='w-[84vw] grid grid-cols-2'>
+            <div className='w-[84vw] grid grid-cols-[1fr_0.5fr]'>
                 <div className=' grid items-center'>
                     <p className='text-white'>29a Ogbodu Street, Festac Town, Lagos, Nigeria </p>
                 </div>

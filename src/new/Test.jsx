@@ -4,7 +4,7 @@ import { FaPlay } from "react-icons/fa";
 
 const HeroSection = () => {
   return (
-    <div className="relative w-[40vw] h-full flex items-center justify-center">
+    <div className="relative lg:w-[40vw] md:h-full   w-[90vw] h-full flex items-center justify-center">
       {/* Background Image with Curved Clip Path */}
       <div
         className="w-full h-full bg-cover bg-center"
