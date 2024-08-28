@@ -63,7 +63,7 @@ function Row2() {
                   <div className='bg-no-repeat bg-center bg-cover bg-blend-soft-light h-auto w-[100%]'  style={{ backgroundImage: `url(${image1})` }} ></div>
                   </div>
                   <div className=' grid h-full w-full'>
-                      <div className=' h-[8vh] w-[80vw] left-[10vw] top-[225vh] lg:h-[14vh] md:h-[8vh] md:w-[40vw] lg:w-[18vw] bg-white absolute shadow-xl lg:top-[210vh] md:top-[180vh] lg:left-[6.2vw] md:left-[6.2vw] grid items-center justify-center '>
+                      <div className=' h-[8vh] w-[80vw] left-[10vw] top-[212vh] lg:h-[14vh] md:h-[8vh] md:w-[40vw] lg:w-[18vw] bg-white absolute shadow-xl lg:top-[210vh] md:top-[168vh] lg:left-[6.2vw] md:left-[6.2vw] grid items-center justify-center '>
                         <p className='text-xl font-semibold'>Taxation Planning</p>
                       </div>
                   </div>
@@ -74,7 +74,7 @@ function Row2() {
                   <div className='bg-no-repeat bg-center bg-cover bg-blend-soft-light h-auto w-[100%]'  style={{ backgroundImage: `url(${image2})` }} ></div>
                   </div>
                   <div className=' grid h-full w-full'>
-                      <div className=' h-[8vh] w-[80vw] left-[10vw] top-[265vh] lg:h-[14vh] lg:w-[18vw] bg-white absolute shadow-xl lg:top-[210vh] md:w-[40vw] md:h-[8vh] md:top-[180vh] md:left-[53.5vw] lg:left-[29vw] grid items-center justify-center '>
+                      <div className=' h-[8vh] w-[80vw] left-[10vw] top-[251vh] lg:h-[14vh] lg:w-[18vw] bg-white absolute shadow-xl lg:top-[210vh] md:w-[40vw] md:h-[8vh] md:top-[168vh] md:left-[53.5vw] lg:left-[29vw] grid items-center justify-center '>
                       <p className='text-xl font-semibold'>Customer Services</p>
                       </div>
                   </div>
@@ -85,7 +85,7 @@ function Row2() {
                   <div className='bg-no-repeat bg-center bg-cover bg-blend-soft-light h-auto w-[100%]'  style={{ backgroundImage: `url(${image3})` }} ></div>
                   </div>
                   <div className=' grid h-full w-full'>
-                      <div className=' h-[8vh] w-[80vw] left-[10vw] top-[304vh] lg:h-[14vh] lg:w-[18vw] bg-white absolute shadow-xl lg:top-[210vh] md:top-[217vh] md:w-[40vw] md:h-[8vh] lg:left-[51.8vw] md:left-[6.2vw] grid items-center justify-center '>
+                      <div className=' h-[8vh] w-[80vw] left-[10vw] top-[290vh] lg:h-[14vh] lg:w-[18vw] bg-white absolute shadow-xl lg:top-[210vh] md:top-[204vh] md:w-[40vw] md:h-[8vh] lg:left-[51.8vw] md:left-[6.2vw] grid items-center justify-center '>
                       <p className='text-xl font-semibold'>Business Consultant</p>
                       </div>
                   </div>
@@ -96,7 +96,7 @@ function Row2() {
                   <div className='bg-no-repeat bg-center bg-cover bg-blend-soft-light h-auto w-[100%]'  style={{ backgroundImage: `url(${image4})` }} ></div>
                   </div>
                   <div className=' grid h-full w-full'>
-                      <div className=' h-[8vh] w-[80vw] left-[10vw] top-[344vh] lg:h-[14vh] lg:w-[18vw] bg-white absolute shadow-xl lg:top-[210vh] md:w-[40vw] md:h-[8vh] md:left-[53.5vw] lg:left-[74.5vw] md:top-[217vh] grid items-center justify-center '>
+                      <div className=' h-[8vh] w-[80vw] left-[10vw] top-[330vh] lg:h-[14vh] lg:w-[18vw] bg-white absolute shadow-xl lg:top-[210vh] md:w-[40vw] md:h-[8vh] md:left-[53.5vw] lg:left-[74.5vw] md:top-[204vh] grid items-center justify-center '>
                       <p className='text-xl font-semibold'>Investment Planning</p>
                       </div>
                   </div>

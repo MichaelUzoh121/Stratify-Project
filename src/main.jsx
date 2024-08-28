@@ -11,10 +11,12 @@ import Contact from './contact/Contact.jsx';
 import NoPage from './component/NoPage.jsx'
 import Header from './new/Test.jsx';
 import './index.css'
+import * as serviceWorkerRegistration from './serviceWorkerRegistration.jsx'; // Import service worker registration
 
 
 
 createRoot(document.getElementById('root')).render(
+
   <StrictMode>
     <BrowserRouter>
       <Routes>
@@ -32,3 +34,5 @@ createRoot(document.getElementById('root')).render(
     </BrowserRouter>
   </StrictMode>,
 )
+
+serviceWorkerRegistration.register();

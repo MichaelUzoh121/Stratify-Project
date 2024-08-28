@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom'
 function menu() {
   return (
     <div className=''>
-        <ol className='flex gap-12 text-lg font-bold font-sans text-black '>
+        <ol className=' lg:flex hidden gap-12 text-lg font-bold font-sans text-black '>
             <Link to='/' className='underline-slide'>
             <li className='cursor-pointer'>Home</li>
             {/* <li className=' hover:underline hover:decoration-red-300 hover:decoration-2 underline-offset-[6px] unde transition-all duration-[0.1s]' >Home</li> */}

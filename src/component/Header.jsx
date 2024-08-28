@@ -27,7 +27,7 @@ function Header() {
 
   return (
     <>
-     <div className=' lg:bg-white none lg:z-30 lg:shadow-2xl lg:text-black lg:fixed lg:top-0 lg:w-full lg:grid lg:grid-cols-[0.6fr_1fr]' style={{height:hh,opacity:for_opacity,transition:"0.5s"}}>
+     <div className=' lg:bg-white hidden lg:z-30 lg:shadow-2xl lg:text-black lg:fixed lg:top-0 lg:w-full lg:grid lg:grid-cols-[0.6fr_1fr]' style={{height:hh,opacity:for_opacity,transition:"0.5s"}}>
       
       <div className='grid items-center justify-center'>
         <div className=' '>
