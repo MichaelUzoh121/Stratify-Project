@@ -135,7 +135,7 @@
 
 import React, { useState, useEffect } from 'react';
 import image1 from '../image/image1.webp';
-import image2 from '../image/image2.webp';
+import image2 from '../image/image2.jpg';
 import image3 from '../image/image3.webp';
 
 const images = [image1, image2, image3];
