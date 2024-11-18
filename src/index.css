@@ -42,3 +42,20 @@
     animation: zoomIn 3s ease-in-out forwards;
   }
   
+
+
+  @keyframes scroll {
+    0% {
+      transform: translateX(0);
+    }
+    100% {
+      transform: translateX(-100%);
+    }
+  }
+  
+  .animate-scroll {
+    display: flex;
+    width: calc(200%); /* Ensures smooth looping by making space for duplicated content */
+    animation: scroll 15s linear infinite;
+  }
+  

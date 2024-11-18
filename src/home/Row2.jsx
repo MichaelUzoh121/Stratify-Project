@@ -30,7 +30,11 @@ function Row2() {
               <div className=' grid md:pl-3 lg:pl-3 lg:items-center box-border md:h-[20vh] lg:h-[35vh] w-full md:items-center items-end '>
                 <div className='grid '>
                   <h2 className=' md:text-[36px] lg:text-[36px] text-[30px] font-semibold leading-[44px] text-left'>
-                  Years of Struggle — <br />Better Strategy With Quality Business
+                  <p className=' flex items-center gap-2 '>
+                    Years of Struggle 
+                  <div className="inline h-1 w-10 bg-red-500"></div>  
+                  </p> 
+                  <p>Better Strategy With Quality Business</p>
                   </h2>
                 </div>
               </div>

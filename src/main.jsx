@@ -11,6 +11,8 @@ import Contact from './contact/Contact.jsx';
 import NoPage from './component/NoPage.jsx'
 import Header from './new/Test.jsx';
 import './index.css'
+import "slick-carousel/slick/slick.css";
+import "slick-carousel/slick/slick-theme.css";
 import * as serviceWorkerRegistration from './serviceWorkerRegistration.jsx'; // Import service worker registration
 
 
