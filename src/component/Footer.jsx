@@ -53,8 +53,8 @@ function Footer() {
           </div>
 
           <div className=" bg-[#0A1C2D] grid items-center justify-items-center h-[130vh] w-full lg:h-full   ">
-            <div className="   grid  lg:grid-cols-[1.3fr_2fr_1fr] gap-3 h-[120vh]  lg:h-[50vh] w-[90vw] ">
-              <div className=" grid grid-rows-[1fr_1fr_1.5fr] ">
+            <div className="   grid lg:grid-cols-[1.3fr_2fr_1fr] gap-3 h-[120vh]  lg:h-[50vh] w-[90vw] ">
+              <div className=" grid  grid-rows-[1fr_1fr_1.5fr] lg:h-fit ">
                 <div className=" grid h-full w-full items-center lg:justify-center  ">
                   <img src={image} className=" h-[90px] w-54 text-white " />
                 </div>
@@ -73,7 +73,7 @@ function Footer() {
                       </div>
                       <div className=" grid items-center   ">
                         <p className=" text-sm text-white ">
-                          29 Ogbodu Street, Festac Town, Lagos.{" "}
+                          29 Ogbodu Street, Festac Town, Lagos.
                         </p>
                       </div>
                     </div>
@@ -116,7 +116,7 @@ function Footer() {
                   </div>
                 </div>
               </div>
-              <div className="  grid lg:grid-cols-2 grid-rows-2 gap-3 ">
+              <div className="  grid lg:grid-cols-2 grid-rows-2 gap-3 lg:h-[50vh] ">
                 <div className="grid items-center lg:justify-items-center ">
                   <div className=" grid grid-rows-[0.5fr_2fr] lg:h-[45vh] w-[80%]">
                     <div className="   flex gap-3 items-center">
@@ -153,7 +153,8 @@ function Footer() {
                   </div>
                 </div>
               </div>
-              <div className=" grid items-center lg:justify-items-center pt-3 ">
+
+              <div className=" grid items-center lg:justify-items-center pt-3 lg:pt-0 lg:h-fit ">
                 <div className=" lg:h-[45vh] w-[90%] grid grid-rows-[0.5fr_2fr] ">
                   <div className="   flex gap-3 items-center lg:justify-center">
                     <p className=" text-xl text-white uppercase ">Newsletter</p>
