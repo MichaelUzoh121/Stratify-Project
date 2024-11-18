@@ -1,8 +1,8 @@
 import React, { useState } from "react";
 import Slider from "react-slick";
-import Face1 from '../image/Face1.jpg';
-import Face2 from '../image/Face2.jpg';
-import Face3 from '../image/Face3.jpg';
+import Face1 from '../image/face1.jpg';
+import Face2 from '../image/face2.jpg';
+import Face3 from '../image/face3.jpg';
 
 const testimonials = [
   {
