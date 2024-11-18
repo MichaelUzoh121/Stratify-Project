@@ -1,39 +1,3 @@
-// import React from 'react'
-// import image1 from '../image/clients1.png'
-// import image2 from '../image/clients2.png'
-// import image3 from '../image/clients3.png'
-// import image4 from '../image/clients4.png'
-// // import image5 from '../image/clients5.png'
-// import image5 from '../image/clients5.png'
-
-// function Row10() {
-//   return (
-//     <div className=' h-[45vh] w-full bg-white  grid items-center justify-center '>
-//       <div className=' h-[35vh] w-[90vw] grid grid-cols-5 '>
-//       <div className=' bg-white grid  p-10 '>
-//           <div className=' bg-no-repeat bg-cover' style={{ backgroundImage: `url(${image1})` }}></div>
-//         </div>
-//         <div className=' bg-white grid  p-10 '>
-//           <div className=' bg-no-repeat bg-cover' style={{ backgroundImage: `url(${image2})` }}></div>
-//         </div>
-//         <div className=' bg-white grid  p-10 '>
-//           <div className=' bg-no-repeat bg-cover' style={{ backgroundImage: `url(${image3})` }}></div>
-//         </div>
-//         <div className=' bg-white grid  p-10 '>
-//           <div className=' bg-no-repeat bg-cover' style={{ backgroundImage: `url(${image4})` }}></div>
-//         </div>
-//         <div className=' bg-white grid  p-10 '>
-//           <div className=' bg-no-repeat bg-cover' style={{ backgroundImage: `url(${image5})` }}></div>
-//         </div>
-//       </div>
-//     </div>
-//   )
-// }
-
-// export default Row10
-
-
-
 import React, { useEffect, useRef } from 'react';
 import image1 from '../image/clients1.png';
 import image2 from '../image/clients2.png';
