@@ -9,11 +9,11 @@ import Menu from '../component/menu';
 
 function Header() {
   return (
-    <div className=' md:h-[26vh] lg:h-[26vh] w-full grid grid-rows-[25%_75%]  '>
+    <div className=' h-[25vh] md:h-[20vh] lg:h-[26vh] w-full grid grid-rows-[25%_75%]'>
 
         <div className='bg-[rgb(50_50_50)] grid justify-center'>
 
-            <div className='w-[84vw] grid grid-cols-[1fr_0.5fr]'>
+            <div className='w-[84vw] grid grid-cols-[1fr_0.5fr] '>
                 <div className=' grid items-center'>
                     <p className='text-white'>29a Ogbodu Street, Festac Town, Lagos, Nigeria </p>
                 </div>
@@ -29,11 +29,11 @@ function Header() {
 
         </div>
 
-        <div className=' grid justify-center'>
+        <div className=' grid justify-center '>
             <div className='w-[84vw]  grid grid-cols-2 h-full'>
                 <div className=' grid items-center '>
                     <Link to='/'>
-                    <img src={logo} className=' h-[12vh] w-[12vw] ' />
+                    <img src={logo} className=' md:h-[10vh] md:w-[25vw] lg:h-[12vh] lg:w-[12vw] ' />
                     </Link>
                 </div>
                 <div className=' grid items-center justify-center '>
